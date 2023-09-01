@@ -1,11 +1,4 @@
-# 👩‍💻 Frontend Mentor - Single price grid component
-
-[Frontend Mentor challenges](https://www.frontendmentor.io/) help you improve your coding skills by building realistic projects.
-
-This is a solution for [Single Price Grid Component](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/hub) challenge.
-
-![Design preview for the Single price grid component coding challenge](./styles/images/preview.png)
-
+# 👩‍💻 Single price grid component
 
 ## The challenge
 
@@ -24,10 +17,18 @@ Users should be able to:
 - CSS Grid
 - Mobile-first workflow
 
-## Live site solution
+<div>
+  <h3>
+    <a href= "https://amansgz.github.io/single-price-grid-component/">
+      Live site
+    </a>
+    <span> | </span>
+    <a href= "https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc/hub">
+      Challenge
+    </a>
+  </h3>
+</div>
 
-[Live site](https://amansgz.github.io/single-price-grid-component/) deployed with GitHub Pages.
+![Design preview for the Single price grid component coding challenge](./styles/images/preview.png)
 
-## Author
-
-- Frontend Mentor - [@amansgz](https://www.frontendmentor.io/profile/amansgz)
+This application/site was created as a submission to <a href= "https://www.frontendmentor.io/">Frontend Mentor Challenges</a> 
